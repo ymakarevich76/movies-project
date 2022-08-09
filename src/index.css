@@ -31,6 +31,7 @@ nav {
   position: absolute;
   top: 0;
   right: 0.5rem;
+  background-color: #42a5f5;
 }
 
 .radio-wrap {
@@ -38,3 +39,5 @@ nav {
   max-width: 300px;
   justify-content: space-between;
 }
+
+nav .brand-logo{position: relative}
